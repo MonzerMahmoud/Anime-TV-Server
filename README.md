@@ -1,2 +1,2 @@
 # Anime-TV-Server
-Python webserver to scrap anime episodes
+Python webserver to scrap anime episodes using selenium.
